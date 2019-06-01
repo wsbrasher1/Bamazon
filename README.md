@@ -42,3 +42,6 @@ Use these commands to install the packages:
 ## Product Demonstration
 
 Shown below is a link to a video demonstration of Bamazon in action:
+
+https://drive.google.com/file/d/1TbnUyZR09gLtIZ2cUsH-mSMGrkMZXmBY/view
+
